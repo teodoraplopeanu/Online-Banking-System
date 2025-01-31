@@ -2,7 +2,7 @@
 **Name: Teodora-Anca Plopeanu**
 **Group: 322CA**
 
-# J. POO Morgan Chase & Co. - Phase 2
+# J. OOP Morgan Chase & Co. - Phase 2
 
 ## Project Overview
 
